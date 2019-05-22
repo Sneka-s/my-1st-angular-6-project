@@ -1,0 +1,20 @@
+.center
+{border: 1px solid #ddd;
+text-align: left;
+padding: 35px;
+width: 25%;
+top:50%;
+  left:50%;
+  transform:translate(110%,0%);
+}
+button
+{
+  background-color:rgb(218, 215, 85);
+  float:right;
+}
+
+.center1{
+  text-align:center;
+  transform:translate(-10%,25%);
+
+}

@@ -1,0 +1,33 @@
+table, td, th {
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 40%;
+}
+
+th, td {
+  padding: 10px;
+}
+
+.b1 {
+float:right;
+Background-color: rgb(95, 97, 99);
+}
+
+.center {
+  top:25%;
+  left:25%;
+  transform:translate(25%,25%);
+}
+.b2
+ {
+   background-color:rgb(218, 215, 85);
+ }
+ .center1 {
+  top:50%;
+  left:50%;
+  transform:translate(25%,250%);
+}
